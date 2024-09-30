@@ -1,0 +1,6 @@
+## SPDX-License-Identifier: GPL-2.0-only
+
+comment "11iwin"
+
+config BOARD_LARK_11IWIN
+	bool "->  Lark Ultimate 11I Win"
